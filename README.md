@@ -1,16 +1,97 @@
-# React + Vite
+# 💼 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio built with **React**, **Vite**, and **Tailwind CSS**. This website showcases my projects, technical skills, and learning journey as a Frontend Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Responsive design for desktop and mobile
+- Modern UI with Tailwind CSS
+- Reusable React components
+- Smooth scrolling navigation
+- Clean and minimal design
+- Easy to maintain and extend
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+src/
+├── assets/
+├── components/
+├── App.jsx
+├── main.jsx
+└── index.css
+
+---
+
+## 🚀 Getting Started
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 📸 Preview
+
+> Add screenshots or a GIF here after completing the project.
+
+---
+
+## 📌 Future Improvements
+
+- Dark / Light mode
+- Project filtering
+- Contact form with EmailJS
+- Animations with Framer Motion
+- Multi-language support
+- Blog section
+
+---
+
+## 👨‍💻 Author
+
+**Bùi Lê Tuấn Kiệt (Kiet)**
+
+Frontend Developer
+
+GitHub: https://github.com/tunakiet-29
+
+LinkedIn: https://www.linkedin.com/in/tunakiet/
+
+Email: ktuna.silver@email.com
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
