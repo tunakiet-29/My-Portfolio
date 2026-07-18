@@ -15,7 +15,7 @@ function Hero() {
           </p>
 
           <h1 className="mb-4 text-5xl font-bold leading-tight text-white lg:text-7xl">
-            Kiet
+            Tuan Kiet
           </h1>
 
           <h2 className="mb-6 bg-gradient-to-r from-cyan-300 via-sky-400 to-blue-500 bg-clip-text text-3xl font-bold text-transparent lg:text-5xl">
