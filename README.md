@@ -4,6 +4,12 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 
 ---
 
+## 🔗 Live Demo
+
+👉 my-portfolio-sandy-five-17.vercel.app
+
+---
+
 ## ✨ Features
 
 - Responsive design for desktop and mobile
@@ -30,7 +36,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 
 src/
 ├── assets/
-├── components/
+├── components/ 
 ├── App.jsx
 ├── main.jsx
 └── index.css
@@ -82,11 +88,9 @@ http://localhost:5173
 
 Frontend Developer
 
-GitHub: https://github.com/tunakiet-29
-
-LinkedIn: https://www.linkedin.com/in/tunakiet/
-
-Email: ktuna.silver@email.com
+- GitHub: https://github.com/tunakiet-29
+- LinkedIn: https://www.linkedin.com/in/tunakiet/
+- Email: ktuna.silver@gmail.com
 
 ---
 
