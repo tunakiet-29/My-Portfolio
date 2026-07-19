@@ -6,7 +6,7 @@ const projects =[
         image: weatherAppImage,
         technologies: ["HTML", "CSS", "JavaScript", "API"],
         github: "https://github.com/tunakiet-29/Weather-App",
-        demo: "",
+        demo: "https://weather-app-alpha-seven-59.vercel.app/",
     }, 
     /*{
         title: "CofiReview",
