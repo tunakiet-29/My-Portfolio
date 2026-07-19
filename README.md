@@ -61,7 +61,7 @@ http://localhost:5173
 
 ## 📸 Preview
 
-> Add screenshots or a GIF here after completing the project.
+![Portfolio Preview](./assets/images/portfolio-preview.png)
 
 ---
 
