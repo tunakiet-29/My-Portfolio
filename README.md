@@ -61,7 +61,7 @@ http://localhost:5173
 
 ## 📸 Preview
 
-![Portfolio Preview](./assets/images/portfolio-preview.png)
+![Portfolio Preview](./screenshots/portfolio-preview.png)
 
 ---
 
