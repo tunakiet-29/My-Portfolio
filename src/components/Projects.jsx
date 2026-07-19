@@ -38,16 +38,16 @@ function Projects(){
                             <img 
                                src={project.image}
                                alt={project.title}
-                               className="h-60 w-full object-cover"
+                               className="sm:h-60 w-full object-cover h-52"
                             />
 
-                            <div className="p-7">
+                            <div className="p-5 sm:p-7">
 
                                 <h3 className="mb-4 text-2xl font-semibold text-white">{project.title}</h3>
 
                                 <p className="mb-6 leading-8 text-slate-400">{project.description}</p>
 
-                                <div className="flex gap-4 mt-6">
+                                <div className="flex flex-wrap gap-3 mt-6">
                                     {project.technologies.map((item)=>(
                                         <span 
                                         key={item}
@@ -55,12 +55,12 @@ function Projects(){
                                     ))}
                                 </div>
 
-                                <div className="flex gap-4 mt-6">
+                                <div className="flex flex-col gap-4 mt-6 sm:flex-row">
                                     <a
                                        href={project.demo}
                                        target="_blank"
                                        rel="noreferrer"
-                                       className="rounded-full bg-cyan-400 px-6 py-3 font-medium text-slate-900 transition duration-300 hover:bg-cyan-500"
+                                       className="w-full rounded-full bg-cyan-400 px-6 py-3 font-medium text-slate-900 transition duration-300 hover:bg-cyan-500 sm:w-auto"
                                     >
                                         Live Demo
                                     </a>
@@ -69,7 +69,7 @@ function Projects(){
                                         href={project.github}
                                         target="_blank"
                                         rel="noreferrer"
-                                        className="rounded-full border border-cyan-400 px-6 py-3 font-medium text-cyan-300 transition duration-300 hover:bg-cyan-400 hover:text-slate-900"
+                                        className="w-full rounded-full border border-cyan-400 px-6 py-3 font-medium text-cyan-300 transition duration-300 hover:bg-cyan-400 hover:text-slate-900 sm:w-auto"
                                     >
                                         View on GitHub
                                     </a>
