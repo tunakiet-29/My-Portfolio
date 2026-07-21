@@ -1,4 +1,5 @@
 import weatherAppImage from "../assets/images/weather-app.png";
+import movieAppImage from "../assets/images/MovieVerse.png"
 const projects =[
     {
         title: "Weather App",
@@ -8,14 +9,14 @@ const projects =[
         github: "https://github.com/tunakiet-29/Weather-App",
         demo: "https://weather-app-alpha-seven-59.vercel.app/",
     }, 
-    /*{
-        title: "CofiReview",
-        description: "A web application that allows users to give their reviews, updates and ratings for various coffee shops.",
-        image: "",
+    {
+        title: "MovieVerse",
+        description: "A modern movie discovery web app built with React, Tailwind CSS, and TMDB API to browse trending, popular, top-rated, and upcoming movies.",
+        image: movieAppImage,
         technologies: ["React", "Tailwind CSS"],
-        github: "https://github.com/tunakiet-29/CofiReview-",
+        github: "https://github.com/tunakiet-29/Movie-App",
         demo: "",
-    }*/
+    }
     ]
 function Projects(){
     return(
