@@ -15,7 +15,7 @@ const projects =[
         image: movieAppImage,
         technologies: ["React", "Tailwind CSS"],
         github: "https://github.com/tunakiet-29/Movie-App",
-        demo: "",
+        demo: "https://movieverse-web.vercel.app/",
     }
     ]
 function Projects(){
