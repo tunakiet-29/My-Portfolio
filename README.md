@@ -6,7 +6,7 @@ A modern and responsive personal portfolio built with **React**, **Vite**, and *
 
 ## 🔗 Live Demo
 
-👉 https://my-portfolio-sandy-five-17.vercel.app/
+👉 https://tunakiet-portfolio.vercel.app/
 
 ---
 
