@@ -1,10 +1,10 @@
-import weatherAppImage from "../assets/images/weather-app.png";
+import Clima from "../assets/images/Clima.png";
 import movieAppImage from "../assets/images/MovieVerse.png"
 const projects =[
     {
         title: "Weather App",
         description: "A weather application built with JavaScript that fetches real-time weather data from an external API and displays it to the user.",
-        image: weatherAppImage,
+        image: Clima,
         technologies: ["HTML", "CSS", "JavaScript", "API"],
         github: "https://github.com/tunakiet-29/Weather-App",
         demo: "https://weather-app-alpha-seven-59.vercel.app/",
