@@ -7,7 +7,7 @@ const projects =[
         image: Clima,
         technologies: ["HTML", "CSS", "JavaScript", "API"],
         github: "https://github.com/tunakiet-29/Weather-App",
-        demo: "https://weather-app-alpha-seven-59.vercel.app/",
+        demo: "https://weather-app-tuna-kiet.vercel.app/",
     }, 
     {
         title: "MovieVerse",
